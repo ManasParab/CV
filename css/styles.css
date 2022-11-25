@@ -3,11 +3,13 @@ body {
   font-family: Sofia;
   font-style: bold;
 }
+
 h1,
 h2 {
   color: #11324d;
-  text-shadow: 5px 5px 6px white;
+  text-shadow: 5px 5px 5px white;
 }
+
 hr {
   background-color: #c1cfc0;
   border-color: #e7e0c9;
@@ -31,6 +33,7 @@ p {
 a {
   text-decoration: none;
 }
+
 img:hover {
   background-color: #11324d;
   border-radius: 100%;
