@@ -1,4 +1,5 @@
 body {
+  padding: 40px;
   background-color: #d8e3d7;
   font-family: Sofia;
   font-style: bold;
@@ -38,4 +39,8 @@ img:hover {
   background-color: #11324d;
   border-radius: 100%;
   transition-duration: 0.5s;
+}
+
+img{
+  margin-left: -30px;
 }
